@@ -15,6 +15,7 @@ public class ModelCraps {
     private int tiro, punto, estado, flag;
     private String[] estadoToString;
     private int[] caras;
+    private int ejemplo;
 
     /**
      * Class Constructor
